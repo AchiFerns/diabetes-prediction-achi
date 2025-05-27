@@ -6,7 +6,7 @@ An AI-powered, interactive web app built using **Streamlit** and **scikit-learn*
 
 ## 🚀 Live Demo
 
-🌐 [Click here to try the app](https://your-streamlit-link.streamlit.app)
+🌐 [Click here to try the app](https://diabetes-prediction-achi-eq5twq4uktfjjj7wgvbzha.streamlit.app/)
 
 > 🔍 Just enter your health details and get an instant result — “Diabetic” or “Not Diabetic” — with prediction confidence.
 
